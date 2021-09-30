@@ -173,7 +173,7 @@ const workExperiences = {
     },
     {
       role: "Development TeamLead",
-      company: "Airbnb",
+      company: "7Tech",
       companylogo: require("./assets/images/1612373001266.jpeg"),
       date: "Dec 2020 – Aug 2021",
       desc: ""
